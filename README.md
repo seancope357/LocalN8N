@@ -1,2 +1,2 @@
-# LocalN8N
-Personal custom N8N setup. 
+# LocalN8N 
+This repo is for storing N8N workflows. 
